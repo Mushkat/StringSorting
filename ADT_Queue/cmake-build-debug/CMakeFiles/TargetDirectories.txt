@@ -1,3 +1,0 @@
-D:/programs/ClionProjects/ADT_Queue/cmake-build-debug/CMakeFiles/ADT_Queue.dir
-D:/programs/ClionProjects/ADT_Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/programs/ClionProjects/ADT_Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
