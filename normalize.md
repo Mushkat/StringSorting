@@ -574,8 +574,9 @@ COMMIT;
 
 ## Результат выполнения примеров запросов
 ### Выполняется при помощи файла scripts/check_queries.py и db/schema.sql
-![alt text](image.png)
+
 ---
 
 ## Оформленного интверфейса нет, но в MVP есть доступ к SWAGGER через эндпоинт /docs, в котором доступны все функции приложения
 
+![alt text](check_queries.jpg)
